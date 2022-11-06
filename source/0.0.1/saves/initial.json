@@ -1,0 +1,11 @@
+{
+	"date": "123",
+	"name": "new game",
+	"data" : {
+		"player" : {
+			"name" : "noname",
+			"posL" : [0, 0],
+			"posG" : [0, 0, 0]
+		}
+	}
+}
